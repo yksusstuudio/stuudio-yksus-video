@@ -24,3 +24,4 @@ scipy==1.11.4
 
 # Optional: for better logging
 colorama==0.4.6
+
