@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: stuudio-yksus-video
+    runtime: python
+    pythonVersion: 3.11
+    buildCommand: pip install -r requirements.txt
+    startCommand: python video_automation_backend.py
