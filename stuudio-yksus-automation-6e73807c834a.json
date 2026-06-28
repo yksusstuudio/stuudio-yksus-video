@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stuudio-yksus-automation",
+  "private_key_id": "6e73807c834af687c27de4422fcbcf82705f8932",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm1+p1JcPISqfh\nxC4O8YdBWphjeiRw5IcbHOzZ0PcoDatI7741EbBJLtCAGHRUWwEUI4gfaGviEZ9U\nopa5EdEI4N0yiq9XdlrqJ3bAUDh0IFIutQjFW4UGYtoEupoPQhY9JlpkYhRcKlpO\nYOIResm7TJW+4ignZn0ecP5btwqBVPZcVRj82apunPh4ZkM8bHHWTvrnBpgzp+YL\nDYPXRJ6U/hzm9Vrc1tTcCAJnX0s4IBBcbVRgRltqGtIzbD2qIXwfVplM4+xFrQja\nCBLHKQlqSkT9oAPRfTi9AT2RnUTMlFKmprO0zm5YlBo7RLmnQAKGfHgc1jtiiAa9\nyu9tNIZVAgMBAAECggEAFMgCERNiHnmGDa3k2sGkyjQhlQpqrZEZbvwcWEkZ7+g7\n9HrAI1YPsh3dpIbnPnaTXNHMK7VS8ralNOKHiYe5lLSFeL0jd+5rBo1h0jRrw7Me\n6WhtLj/nAtOfOkWP2OSvZnB3g9dfl9dCpk6U+f5kUCsK39rFi5rNbNRAKmZTLaaX\nCD9+R57+YG9b2nDqJATGNZHgvVjfJEhU5k8hBWT7Q8azU8FoV8o4EagL8l+VSlc6\nUscRskKgBPv4gMqIwXURweyVyrvgTTGAj8LoOJ+zViz0SY426wYg99ST+vdJ6wyD\nHzdno/WZTpGe0MVuqDpHi8+YIZAZ5Hs1DX0LL538wQKBgQDQ/2Y0LRVm4tiIRYVE\nXjZPC7C8pCB71rrksosOryVBTYC8SjTwfDaIn1kNJWm3ZP8vokuln3nfU57RFLUP\ndt37SflxV23YTFYDBiXs3nCwL511WxD7jvF5HuQ2Xae4LLFOC2HaoQmaO1M5Gw92\nOo7NB3z9+yxnwEBK5yHy0fnfEQKBgQDMXZNFjob0AEAd+fdGZ5NNZnrLqT34Es4L\n1OLx9QkLx5G6OlFU65m/bhLK6DgCuDxcUhhCa/0N3bikLGNFyLRVXgZDe9qGuMYU\nbwL7zlEL7ZylSBkJicvx2/i3z6h/uX7IZuEn4EQ9c1+BzrFogQQidQVP4h5hnktS\n0evr3sZ7BQKBgAg0jsGrp3RzoYawHAxUGpO95MFzPCdAhfPmopj//Vlz/oLl8vAi\nIE3625ctidn+aBppp8in2zQOZ2TUCEvEIfD0tYtioFhmntXdju2eyhPQusDZw2/s\n68QSl2kfAi+z6X4j6kKYIfVhMOJEErZUlDiue5TJILQuExgdvPJ4lfPRAoGARtbE\n3t55vwh7MSjdYuUyNSkptYDTvzLdg1Jm3FIAsbmatP/UA2irYaTJFNaL2717BtFa\nIWQHUpAhmZ7dRmo8wD6YUzoSVJKl7p1QXnJ0u3rAyrYEH79JF2wVebmcgbGN1e97\nanQdk2Nznq5D5qKaCUug7MDHoTTajTnA2oDdMfUCgYB/Fn5uFJPCk9+K20rL8Jwu\n2wdH7fXc+UB+p5ptBLIQeBixk1u7H4BsTQYnkauiU8C2AYNrsII7IOV3IvY1Gj3a\naR4tnkHo6AsHI+QjG8XMMOzhRl7gRXWHjKYG5t3vfYju8bAhi4K0tER2Dqa0BnSZ\n2LFpVXdZqx4d6HLaB7TbTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stuudio-yksus-automation@stuudio-yksus-automation.iam.gserviceaccount.com",
+  "client_id": "117994235057409695160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stuudio-yksus-automation%40stuudio-yksus-automation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
