@@ -4,12 +4,9 @@ numpy>=2.0.0
 Pillow>=10.0.0
 anthropic>=0.32.0
 google-auth-oauthlib>=1.1.0
-google-auth-httplib2>=0.2.0
 google-auth>=2.25.2
 google-api-python-client>=2.106.0
 google-cloud-texttospeech>=2.14.1
 python-dotenv>=1.0.0
 requests>=2.31.0
-ffmpeg-python>=0.2.1
-scipy>=1.11.4
-colorama>=0.4.6
+ 
